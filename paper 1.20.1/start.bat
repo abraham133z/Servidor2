@@ -1,1 +1,0 @@
-java -Xms128M -Xmx1096M -jar paper-1.20.1-196.jar noguis
